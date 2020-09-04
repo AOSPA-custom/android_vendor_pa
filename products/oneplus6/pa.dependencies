@@ -1,6 +1,6 @@
 [
     {
-        "remote":       "aospa",
+        "remote":       "github",
         "repository":   "AOSPA-custom/android_device_oneplus_oneplus6",
         "target_path":  "device/oneplus/oneplus6",
         "revision":     "quartz-custom"
