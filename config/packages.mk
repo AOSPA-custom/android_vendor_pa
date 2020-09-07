@@ -81,3 +81,11 @@ PRODUCT_PACKAGES += \
 # Shell
 PRODUCT_PACKAGES += \
     nano
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim \
+    QStileCookie
