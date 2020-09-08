@@ -88,4 +88,5 @@ PRODUCT_PACKAGES += \
     QStileDefault \
     QStileDualToneCircle \
     QStileSquircleTrim \
-    QStileCookie
+    QStileCookie \
+    QStileSkate
