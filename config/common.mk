@@ -95,6 +95,10 @@ endif
 # Overlays
 include vendor/pa/overlay/overlays.mk
 
+# Fonts
+include vendor/pa/fonts.mk
+
+
 # Packages
 include vendor/pa/config/packages.mk
 
